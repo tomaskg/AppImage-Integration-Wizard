@@ -1,5 +1,3 @@
-Here is a README.md file for the AppImage integration script:
-
 # AppImage Integration Wizard
 
 This bash script provides a wizard to help integrate AppImages into the Linux desktop. 
